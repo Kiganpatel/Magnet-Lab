@@ -85,10 +85,4 @@ README.md            This file
 
 ---
 
-## Tech
-
-Vanilla JavaScript, HTML5 Canvas 2D, Google Fonts. No build step, no frameworks, no dependencies. Single file — copy anywhere and open in a browser.
-
----
-
 Built by [Kigan Patel](https://github.com/kiganpatel)
